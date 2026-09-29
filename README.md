@@ -66,7 +66,9 @@ Black dashed line = The decision boundary — the exact mathematical hyperplane 
    perceptron_classifier_scratch.py: The ANN model: dataset, sigmoid, forward pass, backpropagation, and testing.
 
    visualize.py: Trains the model and plots decision_boundary.png (uses matplotlib).
+   
    decision_boundary.png - Output visualization map.
+   
    README.md - This file.
 
 
